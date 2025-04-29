@@ -1,9 +1,13 @@
-<p align='center'>
-  <img width="100%" src="https://raw.githubusercontent.com/ultralytics/assets/main/yolov8/banner-yolov8.png" alt='DeepVisionH2M Banner'>
-</p>
 <h1 align='center'>DeepVisionH2M</h1>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
-</p>
+
+# 🚀 Task Manager API (FastAPI)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker)
+
+Task management API with JWT authentication, built with FastAPI and PostgreSQL.
+
+## 📦 Requirements
+- Python 3.9+
+- Docker
+
